@@ -1,0 +1,5 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+PartialFunctions = "570af359-4316-4cb7-8c74-252c00c2016b"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Quadmath = "be4d8f0f-7fa4-5f49-b795-2f01399ab2dd"
